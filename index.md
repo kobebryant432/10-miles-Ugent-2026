@@ -31,6 +31,7 @@ In a previous campaign, we measured during the [Dodentocht](https://www.dodentoc
   <span>WBGT (°C)</span>
 </h3>
 <iframe src="data/test.html" height="500" width="500"></iframe>
+<img src="data/colorbar.png" alt="Colorbar" style="width: 100%; height: auto;">
 Observed temperature (left) and [WBGT](https://en.wikipedia.org/wiki/Wet-bulb_globe_temperature) (right)  during the Dodentocht 2024. 
 
 # Contact
