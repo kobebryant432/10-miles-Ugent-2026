@@ -26,12 +26,12 @@ This measurement campaign will allow us to better understand how the meteorologi
 The results will be shared once the data has been analyzed.
 In a previous campaign, we measured during the [Dodentocht](https://www.dodentocht.be/), which gives us results such as the following:
 
-<h2 style="display: flex; justify-content: space-between;">
+<h3 style="display: flex; justify-content: space-between;">
   <span>Temperature (°C)</span>
   <span>WBGT (°C)</span>
-</h2>
+</h3>
 <iframe src="data/test.html" height="500" width="500"></iframe>
-Observed temperature (left) and WBGT - heat stress index (right) during the Dodentocht 2024. 
+Observed temperature (left) and [WBGT](https://en.wikipedia.org/wiki/Wet-bulb_globe_temperature) (right)  during the Dodentocht 2024. 
 
 # Contact
 
