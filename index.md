@@ -11,7 +11,8 @@ INSERT IMAGE OF THE FOUR TYPES OF SENSORS
 
 # Heat Stress
 
-Heat stress is impacted by a combination of several factors such as:
+[Heat stress](https://climate.copernicus.eu/heat-stress-what-it-and-how-it-measured) occurs when our body cannot cool itself effectively.
+It is impacted by a combination of several factors such as:
 - Clothing
 - Activity intensity (metabolic rate)
 - Meteorological conditions (the weather)
@@ -20,7 +21,13 @@ For the weather, not only the air temperature is important, but also the humidit
 
 This measurement campaign will allow us to better understand how the meteorological conditions along the course impact the internal body temperature of the runners.
 
+# Results
+
+The results will be shared once the data has been analyzed.
+In a previous campaign, we measured during the [Dodentocht](https://www.dodentocht.be/), which gives us results such as the following:
+
 <iframe src="data/test.html" height="500" width="500"></iframe>
+Observed temperature and WBGT (heat stress index) during the Dodentocht 2024. 
 
 # Contact
 
