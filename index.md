@@ -1,7 +1,7 @@
 # Ugent Heat Stress Measurement campaign @ MUT 
 
 We are conducting a heat stress measurement campaign during the [MUT](https://www.mut-trail.be/) Muur Trail Festival.
-We have multiple sensors measuring the heat stress along the course of the Antwerp 10 Miles, including:
+We have multiple sensors measuring the heat stress along the course of the MUT, including:
 - Fixed stations
 - Hikers with a meteo-backpack
 - Runners with a meteo-running vest
