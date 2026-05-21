@@ -1,13 +1,14 @@
-# Ugent Heat Stress Measurement campaign @ Antwerp 10 Miles 2026
+# Ugent Heat Stress Measurement campaign @ MUT 
 
-We are conducting a heat stress measurement campaign with practical assistance from [GOLAZO](https://www.golazo.com/).
+We are conducting a heat stress measurement campaign during the [MUT](https://www.mut-trail.be/) Muur Trail Festival.
 We have multiple sensors measuring the heat stress along the course of the Antwerp 10 Miles, including:
 - Fixed stations
 - Hikers with a meteo-backpack
 - Runners with a meteo-running vest
 - Internal body temperature sensors (ingestible pill)
 
-INSERT IMAGE OF THE FOUR TYPES OF SENSORS
+<!-- Include figure of the sensors -->
+![Sensors](data/all_measurement_systems.png)
 
 # Heat Stress
 
@@ -37,9 +38,12 @@ Observed temperature (left) and [WBGT](https://en.wikipedia.org/wiki/Wet-bulb_gl
 # Contact
 
 For emergencies during the event, please contact:
-- XXX: +yyy-yyy-yyy
+- Gil Bourgois: 0475 49 33 85
+For issues with the fixed weather stations, please contact:
+- Guy Wauters: XXX
 
 For any questions regarding the campaign or interest in the results, please contact us via e-mail:
-- XXX
-- XXX
-- XXX
+- [Steven Caluwaerts](https://biblio.ugent.be/person/802000882433): Steven.Caluwaerts@Ugent.be
+- [Gil Bourgois](https://biblio.ugent.be/person/802002921453): Gil.Bourgois@Ugent.be
+- [Sara Top](https://biblio.ugent.be/person/802002433221): Sara.Top@Ugent.be
+- [Kobe Vandelanotte](https://www.linkedin.com/in/kobevandelanotte?originalSubdomain=be): kobe.vandelanotte@meteo.be
